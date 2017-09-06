@@ -1,0 +1,201 @@
+first_name,last_name,family_name,secret_code,city,invited_by,event1,event2,event3,event4,event5
+Gautam,Chokshi,Gautam & Sulochana Chokshi,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Sulochana,Chokshi,Gautam & Sulochana Chokshi,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Keyur,Dalsania,Dr. Keyur & Shivani Dalsania Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Shivani,Dalsania,Dr. Keyur & Shivani Dalsania Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Parsotam,Dalsania,Dr. Keyur & Shivani Dalsania Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Manjula,Dalsania,Dr. Keyur & Shivani Dalsania Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Sumant,Pandya,Dr. Sumant & Dr. Snehlata Pandya,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Snehlata,Pandya,Dr. Sumant & Dr. Snehlata Pandya,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Crystal,Finnerty,Crystal Finnerty,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Jayanti,Ghetia,Jayanti & Kanta Ghetia,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Kanta,Ghetia,Jayanti & Kanta Ghetia,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Malisa,Hampton,Malisa Hampton,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Ajay,Kapadia,Ajay & Aruna Kapadia,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Aruna,Kapadia,Ajay & Aruna Kapadia,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Manikant,Lodaya,Manikant & Lilavanti Lodaya,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Lilavanti,Lodaya,Manikant & Lilavanti Lodaya,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Michael,Martucci,Michael Martucci,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Guest,Diane,Michael Martucci,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Suzanne,Mattern,Suzanne & Bill Mattern,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Bill,Mattern,Suzanne & Bill Mattern,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Josh,Norris,Mr. and Mrs. Norris,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Mrs.,Norris,Mr. and Mrs. Norris,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Arvind,Patel ,Arvind & Koki Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Koki,Patel,Arvind & Koki Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Ashok,Patel,Ashok & Mita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Mita,Patel,Ashok & Mita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Ashvin,Patel,Ashvin & Hemaxi Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Hemaxi,Patel,Ashvin & Hemaxi Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Atul,Patel,Atul & Kavita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Kavita,Patel,Atul & Kavita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Sudha,Patel,Atul & Kavita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Shivani,Patel,Atul & Kavita Patel Family,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Savan,Patel,Atul & Kavita Patel Family,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Maya,Patel,Maya Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Ghanshyam,Patel,Ghanshyam & Smita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Smita,Patel,Ghanshyam & Smita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Chandrakant,Patel,Ghanshyam & Smita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Usha,Patel,Ghanshyam & Smita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Gita,Patel,Ghanshyam & Smita Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Haresh,Patel,Haresh & Deepa Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Deepa,Patel,Haresh & Deepa Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Sunny,Patel,Haresh & Deepa Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Karsanbapuji,Patel,Haresh & Deepa Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Premilaba,Patel,Haresh & Deepa Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Hitesh,Patel,Hitesh & Shital Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Shital,Patel,Hitesh & Shital Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Jatin,Patel,Jatin & Smita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Smita,Patel,Jatin & Smita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Ken,Patel,Ken & Jayshree Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Jayshree,Patel,Ken & Jayshree Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Manoj ,Patel,Manoj & Anu Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Anu,Patel,Manoj & Anu Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Hait,Patel,Manoj & Anu Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Meena,Patel,Meena Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Nilesh,Patel,Nilesh & Jagruti Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Jagruti,Patel,Nilesh & Jagruti Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Asmita,Patel,Nilesh & Jagruti Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Ramesh,Patel,Ramesh & Smita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Smita,Patel,Ramesh & Smita Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Samir,Patel,Samir & Minal Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Minal ,Patel,Samir & Minal Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Sandeep,Patel,Sandeep & Kumud Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Kumud,Patel,Sandeep & Kumud Patel,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Vipul,Patel,Vipul & Vaishali Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Vaishali,Patel,Vipul & Vaishali Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Vijal,Patel,Vipul & Vaishali Patel Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Dipak,Patidar,Dipak & Vanita Patidar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Vanita,Patidar,Dipak & Vanita Patidar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Indravadan,Shah,Indravadan & Usha Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Usha,Shah,Indravadan & Usha Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Mahesh ,Shah,Mahesh & Rashmi Shah,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Rashmi,Shah,Mahesh & Rashmi Shah,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Manoj ,Shah,Manoj & Pana Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Pana,Shah,Manoj & Pana Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Raskin,Shah,Raskin & Neha Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Neha,Shah,Raskin & Neha Shah,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Chetan,Shelat,Chetan & Jigisha Shelat,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Jigisha,Shelat,Chetan & Jigisha Shelat,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Kirit,Bhalani,Dr. Kirit & Bhanu Bhalani,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Bhanu,Bhalani,Dr. Kirit & Bhanu Bhalani,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Ashish,Dalal,Dr. Ashish & Chaitali Dalal,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Chaitali,Dalal,Dr. Ashish & Chaitali Dalal,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Nitin,Hate,Dr. Nitin & Dr. Vidya Hate,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Vidya,Hate,Dr. Nitin & Dr. Vidya Hate,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ramesh,Mathur,Dr. Ramesh & Dr. Uma Mathur,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Uma,Mathur,Dr. Ramesh & Dr. Uma Mathur,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Kiran,Modi,Dr. Kiran & Gita Modi Family,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Gita,Modi,Dr. Kiran & Gita Modi Family,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ravi,Palaniyandi,Dr. Ravi & Ambika Palaniyandi,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ambika,Palaniyandi,Dr. Ravi & Ambika Palaniyandi,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Bharat,Patel,Dr. Bharat & Dipti Patel,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Dipti,Patel,Dr. Bharat & Dipti Patel,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ramesh,Patel,Dr. Ramesh & Nilam Patel,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Nilam,Patel,Dr. Ramesh & Nilam Patel,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ravi,Raman,Dr. Ravi & Shruti Raman,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Shruti,Raman,Dr. Ravi & Shruti Raman,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ravi,Rao,Dr. Ravi & Mrs. Sudha,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Sudha,Rao,Dr. Ravi & Mrs. Sudha,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Yash,Sachdev,Dr. Yash & Sarita Sachdev,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Sarita,Sachdev,Dr. Yash & Sarita Sachdev,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Ashok,Shah,Dr. Ashok & Gita Shah & Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Gita,Shah,Dr. Ashok & Gita Shah & Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Mithun,Sahdev,Dr. Ashok & Gita Shah & Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Megha,Shah,Dr. Ashok & Gita Shah & Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Chirag,Shah,Dr. Ashok & Gita Shah & Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Simon,Symeonides,Dr. Simon & Jovi Symeonides,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Jovi,Symeonides,Dr. Simon & Jovi Symeonides,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Shyam,Verma,Dr. Shyam & Anita Family,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Anita,Verma,Dr. Shyam & Anita Family,,Atlanta,Neha,TRUE,FALSE,FALSE,TRUE,FALSE
+Sean,Verma,Dr. Shyam & Anita Family,,Atlanta,Neha,FALSE,FALSE,FALSE,TRUE,FALSE
+Gangadhar,Barik,Gangadar & Anita Barik,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Anita,Barik,Gangadar & Anita Barik,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Hari,Bhadja,Dr. Hari & Damu Bhadja,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Damu,Bhadja,Dr. Hari & Damu Bhadja,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Bharat,Padalia,Dr. Bharat & Mina Padalia Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Mina,Padalia,Dr. Bharat & Mina Padalia Family,,Atlanta,Neha,TRUE,FALSE,TRUE,TRUE,TRUE
+Vrajlal,Rajyajuru,Dr. Vrajlal & Kalpna Rajyajuru,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Kalpna,Rajyajuru,Dr. Vrajlal & Kalpna Rajyajuru,,Atlanta,Neha,FALSE,FALSE,TRUE,FALSE,TRUE
+Limba,Pansara,Dr. Limba & Hema Pansara,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Hema,Pansara,Dr. Limba & Hema Pansara,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Tulsi,Pipalia,Dr. Tulsi & Harsha Pipalia,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Harsha,Pipalia,Dr. Tulsi & Harsha Pipalia,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Lakha,Ghedia,Dr. Lakha & Bharti Ghedia,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Bharti,Ghedia,Dr. Lakha & Bharti Ghedia,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Thirugnananm,Venki,Thirugnananm & Kavitha Venki,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Kavitha,Venki,Thirugnananm & Kavitha Venki,,Atlanta,Neha,FALSE,FALSE,TRUE,TRUE,TRUE
+Jeram,Chapla,Dr. Jeram & Saroj Chapla Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Saroj,Chapla,Dr. Jeram & Saroj Chapla Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Kevin,Chapla,Dr. Jeram & Saroj Chapla Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Pooja,Chapla,Dr. Jeram & Saroj Chapla Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Kavita,Chapla,Dr. Jeram & Saroj Chapla Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Ashok,Chavda,Ashok & Bhanu Chavda & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Bhanu,Chavda,Ashok & Bhanu Chavda & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Mitesh,Chavda,Ashok & Bhanu Chavda & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Sky,Chavda,Ashok & Bhanu Chavda & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Avani,Chavda,Ashok & Bhanu Chavda & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Natavarlal,Dalsania,Dr. Natavralal & Rama Dalsania Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Rama,Dalsania,Dr. Natavralal & Rama Dalsania Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Ami,Dalsania,Dr. Natavralal & Rama Dalsania Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Kanti,Bhalani,Dr. Kanti & Gita Bhalani Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Gita,Bhalani,Dr. Kanti & Gita Bhalani Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Samuba,Bhalani,Dr. Kanti & Gita Bhalani Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Jayesh,Patel,Dr. Jayesh & Parul Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Parul,Patel,Dr. Jayesh & Parul Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Jaas,Patel,Dr. Jayesh & Parul Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Vishu,Patel,Dr. Jayesh & Parul Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Kamal,Faldu,Kamal & Usha Faldu Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Usha,Faldu,Kamal & Usha Faldu Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Prayag,Faldu,Kamal & Usha Faldu Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Premal,Faldu,Kamal & Usha Faldu Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Narendra,Jadeja,Narendra & Rama Jadeja Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Rama,Jadeja,Narendra & Rama Jadeja Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Shivam,Jadeja,Narendra & Rama Jadeja Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Hitesh,Patel,Hitesh & Manisha Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Manisha,Patel,Hitesh & Manisha Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Rudrakh,Patel,Hitesh & Manisha Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Manan,Patel,Hitesh & Manisha Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Kaushik,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Alpa,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Kanti,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Champa,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Moorti,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Devi,Patel,Dr. Kaushik & Alpa Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Mahesh ,Patel,Mahesh & Jaya Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Jaya,Patel,Mahesh & Jaya Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Bijal,Patel,Mahesh & Jaya Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Mayank,Patel,Mahesh & Jaya Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Kinjal,Patel,Mahesh & Jaya Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Rajesh,Patel,Rajesh & Tulsi Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Tulsi,Patel,Rajesh & Tulsi Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Laxma,Patel,Rajesh & Tulsi Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Pratik,Patel,Rajesh & Tulsi Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Lisa,Patel,Rajesh & Tulsi Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,FALSE,TRUE
+Ramesh,Patel,Ramesh & Sumitra Patel & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Sumitra,Patel,Ramesh & Sumitra Patel & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Bhavin,Patel,Ramesh & Sumitra Patel & Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Sunil,Patel,Hiral & Sunil Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Hiral,Patel,Hiral & Sunil Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Sonam,Patel,Hiral & Sunil Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Diya,Patel,Hiral & Sunil Patel Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Naran,Rola,Naran & Dina Rola,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Dina,Rola,Naran & Dina Rola,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Vasant,Thakkar,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Gita,Thakkar,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Hetal,Taylor,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Tracy,Taylor,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Sanjay,Taylor,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Vijay,Taylor,Vasant & Gita Thakkar Family,,Atlanta,Neha,TRUE,FALSE,TRUE,FALSE,TRUE
+Kanta,Virani,Mrs. Virani,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Nazish,Ahmed,Dr. Zuhair & Nazish Ahmed Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Zuhair,Ahmed,Dr. Zuhair & Nazish Ahmed Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Raiyan,Ahmed,Dr. Zuhair & Nazish Ahmed Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Chad,Bassi,Dr. Chad Bassi,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Vorice,Batts,Dr. Vorice Batts & Norris Bennett,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Norris,Bennett,Dr. Vorice Batts & Norris Bennett,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Sharmila,Bhagwandeen,Sharmila Bhagwandeen,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Shawniece,Boss,Dr. Shawniece Boss & Bryan Villegas,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Bryan,Villegas,Dr. Shawniece Boss & Bryan Villegas,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Carly,Chapman,Dr. Carly & Ashton Chapman Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
+Ashton,Chapman,Dr. Carly & Ashton Chapman Family,,Atlanta,Neha,TRUE,TRUE,TRUE,TRUE,TRUE
